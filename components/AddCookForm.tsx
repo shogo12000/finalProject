@@ -105,3 +105,7 @@ const styles = StyleSheet.create({
     borderRadius: 10,
   },
 });
+
+
+// https://github.com/shogo12000/finalProject
+// https://github.com/shogo12000/finalProjectBack
